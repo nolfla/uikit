@@ -47,7 +47,7 @@
     "less": "^2.7.2",
     "minimist": "^1.2.5",
     "npm-watch": "github:dasdeck/npm-watch#46a8a36c61cfd998ed53d27f62eaf79e11c395b4",
-    "postcss": "8.2.4",
+    "postcss": "8.2.10",
     "rollup": "^2.38.4",
     "rollup-plugin-html": "^0.2.1",
     "rtlcss": "^3.1.1",
